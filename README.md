@@ -1,4 +1,4 @@
-# bzz
+# tpm
 
 To install dependencies:
 
